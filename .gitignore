@@ -3,7 +3,6 @@
 .ipynb_checkpoints/
 .virtual_documents/
 
-
 # Python
 
 __pycache__/
@@ -15,12 +14,12 @@ __pycache__/
 anaconda_projects/
 
 
+# Data
+
+data/
+
+
 # OS
 
 .DS_Store
 Thumbs.db
-
-
-# Temporary notebooks
-
-Untitled*.ipynb
